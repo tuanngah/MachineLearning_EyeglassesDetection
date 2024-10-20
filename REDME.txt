@@ -1,0 +1,10 @@
+1. Collect data
+    CelebA_data.py
+    Collect_data.py
+2. Data Preparation
+    data_preparation.py
+3. Model Logistic, KNN, SVM
+    model_train.py
+4. Run on real time
+    real_time.py
+    
